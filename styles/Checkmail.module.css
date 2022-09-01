@@ -1,0 +1,74 @@
+.heading{
+    height: 46px;
+    width: 318px;
+    left: 495px;
+    top: 196px;
+    border-radius: nullpx;
+    font-family: Inter;
+font-size: 38px;
+font-weight: 600;
+line-height: 46px;
+letter-spacing: 0em;
+text-align: left;
+}
+
+.for{
+    height: 46px;
+width: 401px;
+left: 495px;
+top: 196px;
+border-radius: nullpx;
+
+}
+
+.head{
+    position: absolute;
+    width: 401px;
+    height: 46px;
+    left: 495px;
+    top: 196px;
+    margin-bottom: 5px;
+    
+}
+
+.sub{
+    
+width: 451px;
+left: 495px;
+top: 247px;
+border-radius: nullpx;
+font-family: Inter;
+font-size: 18px;
+letter-spacing: 0em;
+text-align: left;
+margin-top: 5px;
+
+
+}
+.sub1{
+height: 58px;
+width: 451px;
+left: 495px;
+top: 247px;
+border-radius: nullpx;
+font-family: Inter;
+font-size: 18px;
+font-weight: 600;
+text-align: left;
+margin-bottom: 21px;
+margin-top: 5px;
+
+}
+
+.mail{
+    width: 451px;
+    height: 29px;
+    left: 495px;
+    top: 326px;
+    
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 29px;
+}

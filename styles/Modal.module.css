@@ -1,0 +1,166 @@
+/* .box{
+position: absolute;
+width: 500px;
+height: 450px;
+left: 370px;
+top: 120px;
+box-shadow: gray;
+background:rgb(201, 21, 21);
+box-sizing: border-box;} */
+.name{
+margin-top: 10px;
+font-family: 'Inter';
+font-style: normal;
+font-weight: 600;
+font-size: 14px;
+line-height: 100%;
+margin-top: 35px;
+display: flex;
+align-items: center;
+text-transform: uppercase;
+
+/* 212121 */
+
+color: #212121;
+}
+
+.invite{
+margin-top: 10px;
+margin-bottom: 10px; 
+font-family: 'Inter';
+font-style: normal;
+font-weight: 600;
+font-size: 22px;
+line-height: 150%;
+color: black;
+}
+.box1{
+    display: flex;
+    flex-flow: row;
+}
+
+
+.btn{
+    display: flex;
+flex-direction: row;
+align-items: center;
+padding: 9px 13px;
+gap: 8px;
+font-size: 10px;
+background: white;
+text-decoration: none;
+color: black;
+border-color: black;
+border-radius: 8px;
+margin-top: 30px;
+width: 120px;
+
+}
+
+.head{
+    background-color: white;
+}
+
+.btn1{
+align-items: flex-end;
+
+gap: 8px;
+font-size: 12px;
+font-weight: 700;
+
+text-decoration: none;
+margin-top: 50px;
+border-radius: 8px;
+margin-left: 250px;
+color: black;
+border-color: black;
+height: 37px;
+}
+.btn2{
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 16px;
+    line-height: 150%;
+
+padding: 9px 13px;
+gap: 8px;
+font-size: 10px;
+width: 100px;
+height: 39px;
+background: white;
+text-decoration: none;
+color: black;
+border-color: black;
+border-radius: 12px;
+margin-left: 350px;
+margin-top: -60px;
+
+}
+.btn3{
+    color: black;
+    border-color: black;
+    align-content: flex-end;
+    margin-left: 290px;
+    width: 5px;
+}
+
+.named{
+    height: 40px;
+    width: 460px;
+    border-radius: 5px;
+}
+.named1{
+    height: 40px;
+    width: 350px;
+    border-radius: 5px;
+    margin-top: 60px;
+    margin-left: -105px;
+    margin-right: 30px;
+}
+.named2{
+    height: 40px;
+    width: 250px;
+    border-radius: 5px;
+    margin-top: 60px;
+    margin-left: -40px;
+
+}
+.email
+{
+    margin-top: 10px;
+    font-family: 'Inter';
+font-style: normal;
+font-weight: 600;
+font-size: 14px;
+line-height: 100%;
+margin-top: 35px;
+display: flex;
+align-items: center;
+text-transform: uppercase;
+
+/* 212121 */
+
+color: #212121;
+}
+.phno{
+    margin-top: 10px;
+    font-family: 'Inter';
+font-style: normal;
+font-weight: 600;
+font-size: 14px;
+display: flex;
+flex-flow: row;
+text-transform: uppercase;
+margin-top: 35px;
+color: #212121;
+margin-left: -5px;
+}
+.Role{
+    margin-top: 10px;
+    font-family: 'Inter';
+color: #212121;
+text-transform: uppercase;
+font-weight: 600;
+margin-top: 35px;
+}
