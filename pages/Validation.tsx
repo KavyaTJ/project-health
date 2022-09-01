@@ -1,4 +1,4 @@
-import react from 'React';
+import * as React from 'react';
 export const emailValidator = (email: string) => {
     const emailRegex = /^[^\s@]+@[^\s@]+$/;
     return emailRegex.test(email)
